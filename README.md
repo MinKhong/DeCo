@@ -98,7 +98,8 @@ python app.py --config configs_t2i/inference_heavydecoder.yaml  --ckpt_path=./ck
 ```
 
 ## 🤖 Usages
-For C2i(ImageNet), We use ADM evaluation suite to report FID. For T2i, we use GenEval and DPG to collect metrics.
+In class-to-image(ImageNet) experiments, We use [ADM evaluation suite](https://github.com/openai/guided-diffusion/tree/main/evaluations) to report FID. 
+In text-to-image experiments, we use BLIP3o dataset as training set and utilize GenEval and DPG to collect metrics.
 
 + Environments
 ```bash
@@ -117,6 +118,9 @@ python main.py predict -c ./configs_c2i/DeCo_XL.yaml --ckpt_path=XXX.ckpt
 # for c2i training
 # Please modify the ImageNet1k path in the config file before training.
 python main.py fit -c ./configs_c2i/DeCo_XL.yaml
+
+# for 512*512 continuing pretraining
+python main.py fit -c ./configs_c2i/DeCo_XL_512.yaml --ckpt_path=/path/to/256/checkpoint/at/320/epochs
 ```
 
 ```bash
