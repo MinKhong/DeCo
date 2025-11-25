@@ -29,8 +29,8 @@
 
 <h5 align="center">
 
-<!-- [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](---) -->
-[![arXiv](https://img.shields.io/badge/Arxiv-2506.09045-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2506.09045) 
+[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2511.19365)
+[![arXiv](https://img.shields.io/badge/Arxiv-2511.19365-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.19365) 
 [![Home Page](https://img.shields.io/badge/Project-<Website>-blue.svg)](https://zehong-ma.github.io/DeCo/) 
 [![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Online_Demo-green)](https://14467288703cf06a3c.gradio.live) 
 [![github](https://img.shields.io/github/stars/Zehong-Ma/DeCo.svg?style=social)](https://github.com/Zehong-Ma/DeCo/)
@@ -138,9 +138,13 @@ This repository is built based on [PixNerd](https://github.com/MCG-NJU/PixNerd) 
 If you find DeCo is useful in your research or applications, please consider giving us a star ⭐ and citing it by the following BibTeX entry.
 
 ```
-@inproceedings{
-  ma2025deco,
-  title={DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation},
-  author={Zehong Ma and Longhui Wei and Shuai Wang and Shiliang Zhang and Qi Tian},
+@misc{ma2025decofrequencydecoupledpixeldiffusion,
+      title={DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation}, 
+      author={Zehong Ma and Longhui Wei and Shuai Wang and Shiliang Zhang and Qi Tian},
+      year={2025},
+      eprint={2511.19365},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.19365}, 
 }
 ```
