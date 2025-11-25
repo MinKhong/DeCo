@@ -53,6 +53,7 @@ We introduce a novel frequency-decoupled framework DeCo for pixel diffusion, whe
 - We achieve **2.22 FID** on ImageNet512x512 Benchmark with DeCo-XL/16.
 - We achieve **0.86 overall score** on GenEval Benchmark with DeCo-XXL/16.
 - We achieve **81.4 avergae score** on DPG Benchmark with DeCo-XXL/16.
+- **If you like our project, please kindly give us a star ⭐ on GitHub.**
 
 ## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzg4OCI+PHBhdGggZD0iTTEyLDJBNy45LDcuOSwwLDAsMCw0LjEsOS45LDcuOCw3LjgsMCwwLDAsMiwxN2gzYTEsMSwwLDAsMCwxLDFoM3YyYTEsMSwwLDAsMCwxLDFoNHYwYTEsMSwwLDAsMCwxLTFWMThoM2ExLDEsMCwwLDAsMS0xaDNjMC0zLjgtMS42LTcuNS01LjgtOS4yQTguMSw4LjEsMCwwLDAsMTIsMlpNMTQsMTMuNWwtLjUuOGExLDEsMCwwLDEtLjkuNWgtMS4yYTEsMSwwLDAsMS0uOS0uNWwtLjUtLjhDOS4zLDEzLDksMTIuNyw5LDEyLjRzLjMtLjYsLjktMWwuNS0uOGExLDEsMCwwLDEsLjktLjVoMS4yYTEsMSwwLDAsMSwuOS41bC41LjhjLjYuNC45LjcuOSwxUzE0LjYsMTMuMSwxNCwxMy41WiIvPjwvc3ZnPg==" width="20" style="vertical-align: middle;"/> DCT Spectral Analysis 
 
